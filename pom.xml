@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>FirstAkkaApplication</module>
         <module>ActorMessagingExample</module>
     </modules>
 

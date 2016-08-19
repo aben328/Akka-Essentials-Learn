@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ActorMessagingExample/ActorMessagingExample.iml" filepath="$PROJECT_DIR$/ActorMessagingExample/ActorMessagingExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/Akka-Essentials-Learn.iml" filepath="$PROJECT_DIR$/Akka-Essentials-Learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstAkkaApplication/FirstAkkaApplication.iml" filepath="$PROJECT_DIR$/FirstAkkaApplication/FirstAkkaApplication.iml" />
     </modules>
   </component>
 </project>

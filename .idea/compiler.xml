@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="ActorMessagingExample" />
+        <module name="FirstAkkaApplication" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8" />
