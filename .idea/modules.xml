@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActorMessagingExample/ActorMessagingExample.iml" filepath="$PROJECT_DIR$/ActorMessagingExample/ActorMessagingExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Akka-Essentials-Learn.iml" filepath="$PROJECT_DIR$/Akka-Essentials-Learn.iml" />
+    </modules>
+  </component>
+</project>
