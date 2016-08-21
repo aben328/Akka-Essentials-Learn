@@ -26,6 +26,10 @@
         <module name="FirstAkkaApplication" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.8" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="ActorMessagingExample" target="1.8" />
+      <module name="Akka-Essentials-Learn" target="1.8" />
+      <module name="FirstAkkaApplication" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
